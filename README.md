@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/main/hello.gif" width="300px">
+ <img src="" width="300px">
 </p>
 
 <p align="center">
