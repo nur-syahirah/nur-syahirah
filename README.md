@@ -1,9 +1,10 @@
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/main/hello.gif" width="400px">
+ <img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/main/hello.gif" width="300px">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unkempt&weight=900&size=40&pause=500&color=A0A0A0&center=true&vCenter=true&width=1400&height=100&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Industry;And+Sahara+by+my+previous+coursemates+" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=B1B1B1&vCenter=true&width=650&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Industry;And+Sahara+by+my+previous+coursemates" alt="Typing SVG" /></a> </p>
 
 I'm an aspiring full-stack developer with a unique journey. I started out as a mobile programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.
 
