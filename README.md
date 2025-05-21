@@ -38,6 +38,7 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/output/snake.svg" alt="Snake animation" />
+
 ###
 <!--
 **nur-syahirah/nur-syahirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
