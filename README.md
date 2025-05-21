@@ -1,4 +1,3 @@
-
 <p align="center">
  <img src="hello.gif" width="300px">
 </p>
@@ -37,6 +36,7 @@
 </div>
 
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/output/snake.svg" alt="Snake animation" />
 
 ###
