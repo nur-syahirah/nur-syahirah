@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=B1B1B1&center=true&vCenter=true&width=650&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Industry;And+Sahara+by+my+previous+coursemates" alt="Typing SVG"/></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&weight=900&size=45&pause=500&color=1D9065&center=true&vCenter=true&width=1650&lines=I+am+Syahirah;Ms+Irah+in+the+Early+Childhood+community;Sahara+to+my+previous+coursemates" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">I'm an aspiring full-stack developer with a unique journey. I started out as a mobile programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
