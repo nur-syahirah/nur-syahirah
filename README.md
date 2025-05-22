@@ -36,8 +36,9 @@
 </div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/nur-syahirah/nur-syahirah/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="assets/snake.svg" alt="Snake Animation">
+</p>
 
 ###
 <!--
