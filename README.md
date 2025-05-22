@@ -6,77 +6,100 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&weight=900&size=45&pause=500&color=1D9065&center=true&vCenter=true&width=1650&lines=I+am+Syahirah;Ms+Irah+in+the+Early+Childhood+community;Sahara+to+my+previous+coursemates" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">I'm an aspiring full-stack developer with a unique journey. I started out as a mobile programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
-
-###
+<h3 align="center">I am an aspiring full-stack developer with a unique journey. I started out as a mobile app programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nur-syahirah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-syahirah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<!-- Container for rows 1-3 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
+  <!-- Row 1: Front-End Dev & Frameworks -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <h4 style="width: 100%; text-align: center;">Front-End Dev & Frameworks</h4>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap 5" width="50" height="40"/>
+    </a>
+    </a>
+  </div>
 
-###
-<div align="left">
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages</h4>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-     <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
+  <!-- Row 2: Backend Dev & Frameworks -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <h4 style="width: 100%; text-align: center;">Backend Dev & Frameworks</h4>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" alt="Spring Boot" width="40" height="40"/>
+    </a>
+    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="40" height="40"/>
+    </a>
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+    </a>
+  </div>
 
-<h4 align="left">FrontEnd Dev</h4>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-
-<h4 align="left">BackEnd Dev</h4>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-<h4 align="left">Mobile App Dev</h4>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-
-<h4 align="left">IDEs</h4>
-  <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer"> 
-   <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="xcode" width="40" height="40"/> </a> 
-
- <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode" width="40" height="40"/> </a> 
-
- <a href="https://eclipseide.org" target="_blank" rel="noreferrer"> 
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" alt="eclipse" width="40" height="40"/> </a> 
-
-<h4 align="left">Database</h4>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-
-<h4 align="left">Data Visualization</h4>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-
-<h4 align="left">Testing</h4>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="junit" width="40" height="40"/> </a> 
+  <!-- Row 3: Tools -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <h4 style="width: 100%; text-align: center;">Tools</h4>
+    <!-- IDEs -->
+    <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="VS Code" width="40" height="40"/>
+    </a>
+    <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" alt="Eclipse" width="40" height="40"/>
+    </a>
+    <!-- Databases -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+    </a>
+    <!-- Data Visualization -->
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="40" height="40"/>
+    </a>
+    <!-- Testing -->
+    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="40" height="40"/>
+    </a>
+    <!-- Design Software -->
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    </a>
+  </div>
 </div>
 
-<h4 align="left">Software</h4>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<!-- Row 4: Summary of Project Accomplishments -->
+<div style="text-align: center; margin-top: 20px;">
+  <h4>Project Accomplishments</h4>
+  <p>
+    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases. Enhanced the overall project presentation through refined GitHub profiles, optimized animations, and efficient SQL query designs.
+  </p>
 </div>
+
 
 <br clear="both">
 <p align="center">
