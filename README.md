@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&weight=900&size=45&pause=500&color=1D9065&center=true&vCenter=true&width=1650&lines=I+am+Syahirah;Ms+Irah+in+the+Early+Childhood+community;Sahara+to+my+previous+coursemates" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F7F2F1&background=1D9065&center=true&vCenter=true&width=1000&height=100&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Community;And+Sahara+by+my+previous+course+mates!" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">I am an aspiring full-stack developer with a unique journey. I started out as a mobile app programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
@@ -61,14 +61,14 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <h4 style="width: 100%; text-align: center;">Tools</h4>
     <!-- IDEs -->
-    <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer">
-      <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="40" height="40"/>
-    </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="VS Code" width="40" height="40"/>
     </a>
     <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" alt="Eclipse" width="40" height="40"/>
+    </a>
+   <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer">
+      <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="40" height="40"/>
     </a>
     <!-- Databases -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@
 <div style="text-align: center; margin-top: 20px;">
   <h4>Project Accomplishments</h4>
   <p>
-    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases. Enhanced the overall project presentation through refined GitHub profiles, optimized animations, and efficient SQL query designs.
+    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases.
   </p>
 </div>
 
