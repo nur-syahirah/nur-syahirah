@@ -95,9 +95,16 @@
 <!-- Row 4: Summary of Project Accomplishments -->
 <div style="text-align: center; margin-top: 20px;">
   <h4>Project Accomplishments</h4>
-  <p>
-    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases.
-  </p>
+  <p> 
+   2012 - Internship with NIE CeL(Centre of E-learning)
+   Well Said App
+
+
+   
+   2013 - Collaborated with Temasek Polytechnic's Library for final project 
+   
+   
+  </p> 
 </div>
 
 
@@ -125,7 +132,6 @@ Here are some ideas to get you started:
 I'm an aspiring full-stack developer with a unique journey. I started out as a mobile programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.
 
 ## My Journey
-
 **From Mobile Programming to Early Childhood:**  
 My early career in mobile programming gave me hands-on coding experience, while my time as an early childhood educator taught me creativity, communication, and problem-solving in dynamic environments. These experiences have shaped my approach to full-stack development — blending technical savvy with innovative, human-centered solutions.
 
@@ -139,6 +145,13 @@ I'm driven by a deep fascination with how things work and a desire to tackle cha
 - **Patience & Persistence:** Guiding learners and debugging code both require a steady, persistent approach.
 - **Creativity:** Crafting engaging lesson plans informs my passion for designing intuitive interfaces.
 - **Collaboration:** Working with educators and diverse teams has honed my ability to thrive in collaborative environments.
+
+<div style="text-align: center; margin-top: 20px;">
+  <h4>Project Accomplishments</h4>
+  <p>
+    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases.
+  </p>
+</div>
 
 **My Current Journey:**  
 I'm currently immersed in a 3-month bootcamp to master full-stack development, learning technologies like HTML, JavaScript, and Java. I'm equally excited about both frontend and backend challenges. Right now, I'm working on my capstone project — a responsive ecommerce website — which allows me to synthesize my learning and test my skills in a real-world scenario.
