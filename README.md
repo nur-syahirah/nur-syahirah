@@ -101,9 +101,16 @@
 
 
    
-   2013 - Collaborated with Temasek Polytechnic's Library for final project 
-   
-   
+   2013 - Collaborated with Temasek Polytechnic's Library for Major project 
+   <p> For the Major project, my team and I have collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update on the new version of the TP library mobile app (Version 3). Our task inludes resolving all the issues that have been detected and feedback by users, debugging for other issues within the existing functions and implementing new functions. 
+    <br> For myself, I was incharged of:
+    <ul> 
+     <li> Updating new floor plan and rectifying cosmetic adjustment </li>
+     <li> Investigating and fixing the discrepancy on displaying of informations that are retrieved from their database, e.e in Annoucement section </li> 
+     <li> Proposed and implemented the randomized function </li>
+     <li> Compiling the group's codes together </li> 
+    </ul> 
+    </p>   
   </p> 
 </div>
 
