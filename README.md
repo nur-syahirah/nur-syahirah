@@ -57,9 +57,9 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </div>
 
-<!-- Row 4: Summary of Project Accomplishments -->
-<div style="text-align: center; margin-top: 20px;">
- <h4>Project Accomplishments</h4>
+---
+
+## My Accomplishments
  <h5>2012 - Internship with NIE CeL (Centre of E-Learning) - Well Said App </h5>
   <p>
   During my internship with CeL (Centre of E-Learning), I collaborated with the team to recreate an Android version of their existing app, Well Said. As the project lead, I spearheaded the development process by designing and optimizing the user interface, coordinating with team members to integrate backend services, and overseeing quality assurance to ensure a seamless, user-friendly experience.
@@ -71,16 +71,16 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
   <img src="https://github.com/user-attachments/assets/45d1ff11-26b5-41dd-8f47-a9800e5b378b" alt="Screenshot 2" width="150" />
   <img src="https://github.com/user-attachments/assets/78f90980-9494-47f9-b667-93c6a7d15cbf" alt="Screenshot 1" width="150" />
   <img src="https://github.com/user-attachments/assets/842c91db-42f8-4c61-a95c-2f0160c97d02" alt="Screenshot 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/1b5fd004-2f1b-4cdc-898a-ce3865692d68" alt="Screenshot 5" width="150" />
+  <img src="https://github.com/user-attachments/assets/b42f250f-2b86-4727-92f1-1665acd80b39" alt="Screenshot 4" width="150" />
+ <img src="https://github.com/user-attachments/assets/1b5fd004-2f1b-4cdc-898a-ce3865692d68" alt="Screenshot 5" width="150" />
   <img src="https://github.com/user-attachments/assets/1f8fec94-4593-4198-b492-04530da7ccaf" alt="Screenshot 7 - alt" width="150" />
-  <img src="https://github.com/user-attachments/assets/7e3e73f2-4360-4983-bee4-ed4c0372f8ae" alt="Screenshot 7" height="250" />
- <img src="https://github.com/user-attachments/assets/f68f4b7d-895a-4722-9532-ebaee99f08ea" alt="Screenshot 15" height="250 />
-  <img src="https://github.com/user-attachments/assets/ed29494b-2519-4d08-ad6a-713523f9f06c" alt="Screenshot 16" height="250 />
+   <img src="https://github.com/user-attachments/assets/7e3e73f2-4360-4983-bee4-ed4c0372f8ae" alt="Screenshot 7" height="250" />
+  <img src="https://github.com/user-attachments/assets/f68f4b7d-895a-4722-9532-ebaee99f08ea" alt="Screenshot 15" height="250" />
+  <img src="https://github.com/user-attachments/assets/ed29494b-2519-4d08-ad6a-713523f9f06c" alt="Screenshot 16" height="250" />
 </div>
 
 
-
- <h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
+<h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
     <p>
       For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected issues and user feedback,debugging existing functions, and implementing new functions.
     </p>
