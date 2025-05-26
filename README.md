@@ -90,29 +90,29 @@
 <!-- Row 4: Summary of Project Accomplishments -->
 <div style="text-align: center; margin-top: 20px;">
   <h4>Project Accomplishments</h4>
-  <p> 
-   2012 - Internship with NIE CeL(Centre of E-learning)
-   Well Said App
+  <p>
+    2012 - Internship with NIE CeL (Centre of E-Learning)<br>
+    Well Said App
+  </p>
 
-
-   
-   2013 - Collaborated with Temasek Polytechnic's Library for Major project 
-   <p> For the Major project, my team and I have collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update on the new version of the TP library mobile app (Version 3). Our task inludes resolving all the issues that have been detected and feedback by users, debugging for other issues within the existing functions and implementing new functions. 
-    <br> For myself, I was incharged of:
-    <ul> 
-     <li> Updating new floor plan and rectifying cosmetic adjustment </li>
-     <li> Investigating and fixing the discrepancy on displaying of informations that are retrieved from their database, e.e in Annoucement section </li> 
-     <li> Proposed and implemented the randomized function called Spin Me! </li>
-     <li> Compiling the group's codes together </li> 
-    </ul> 
-    </p>  
-    Here's a short clip taken from my project presentation showcasing the Spin Me! function. 
-    <br>
+  <div style="margin-top: 40px;">
+    <h3>2013 - Collaborated with Temasek Polytechnic's Library for Major Project</h3>
+    <p>
+      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving all detected issues and user feedback, debugging existing functions, and implementing new functions.
+    </p>
+    <p>For my contribution, I was in charge of:</p>
+    <ul style="text-align: left; display: inline-block;">
+      <li>Updating the new floor plan and rectifying cosmetic adjustments.</li>
+      <li>Investigating and fixing discrepancies in displaying information retrieved from their database (e.g., in the Announcement section).</li>
+      <li>Proposing and implementing the randomized function called "Spin Me!"</li>
+      <li>Compiling the group's code together.</li>
+    </ul>
+    <p>Here's a short clip taken from my project presentation showcasing the Spin Me! function.</p>
     <video width="600" controls>
-  <source src="assets/videos/tpLibVid.mp4" type="video/mp4">
-  Whoops! Your browser does not support the video tag.
-</video>
-  </p> 
+      <source src="assets/videos/tpLibVid.mp4" type="video/mp4">
+      Whoops! Your browser does not support the video tag.
+    </video>
+  </div>
 </div>
 
 <div align="center">
