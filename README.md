@@ -8,11 +8,6 @@
 
 <h3 align="center">I am an aspiring full-stack developer with a unique journey. I started out as a mobile app programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur-syahirah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-syahirah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <!-- Container for rows 1-3 -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
@@ -107,13 +102,23 @@
     <ul> 
      <li> Updating new floor plan and rectifying cosmetic adjustment </li>
      <li> Investigating and fixing the discrepancy on displaying of informations that are retrieved from their database, e.e in Annoucement section </li> 
-     <li> Proposed and implemented the randomized function </li>
+     <li> Proposed and implemented the randomized function called Spin Me! </li>
      <li> Compiling the group's codes together </li> 
     </ul> 
-    </p>   
+    </p>  
+    Here's a short clip taken from my project presentation showcasing the Spin Me! function. 
+    <br>
+    <video width="600" controls>
+  <source src="assets/videos/tpLibVid.mp4" type="video/mp4">
+  Whoops! Your browser does not support the video tag.
+</video>
   </p> 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nur-syahirah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-syahirah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br clear="both">
 <p align="center">
