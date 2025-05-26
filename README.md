@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
 </div>
 
 ***
-#### - (2012) Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App
+#### (2012) Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App
  <p>
 For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks includes resolving detected issues from the user's feedback, debugging existing functions, and implementing new functions.
  </p>
