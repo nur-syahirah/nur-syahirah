@@ -6,86 +6,57 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F7F2F1&background=1D9065&center=true&vCenter=true&width=1000&height=100&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Community;And+Sahara+by+my+previous+course+mates!" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">I am an aspiring full-stack developer with a unique journey. I started out as a mobile app programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.</h3>
+Welcome to my GitHub profile! I’m an aspiring full-stack developer in training with prior experience as a mobile programmer and an early childhood educator. I’m passionate about building innovative, responsive, and user-friendly applications while continuously expanding my tech skills.
 
-<!-- Container for rows 1-3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+---
 
+## About Me
+
+
+- **Current Focus:** 3-month bootcamp mastering full-stack development  
+- **Background:** Mobile programming & early childhood education  
+- **Core Strengths:** Problem-solving, creative design, and user experience optimization  
+- **Interests:** Responsive design, JWT & role-based authentication, SQL query optimization, and modern frameworks
+
+---
+
+## Tech Stack
   <!-- Row 1: Front-End Dev & Frameworks -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <h4 style="width: 100%; text-align: center;">Front-End Dev & Frameworks</h4>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap 5" width="50" height="40"/>
-    </a>
-    </a>
+ <div style="text-align: center;">
+  <h4>Front-End Dev & Frameworks</h4>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap 5" width="50" height="40" />
   </div>
+</div>
 
   <!-- Row 2: Backend Dev & Frameworks -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <h4 style="width: 100%; text-align: center;">Backend Dev & Frameworks</h4>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <div style="text-align: center;">
+  <h4>Backend Dev & Frameworks</h4>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" alt="Spring Boot" width="40" height="40"/>
-    </a>
-    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="40" height="40"/>
-    </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-    </a>
   </div>
 
   <!-- Row 3: Tools -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <h4 style="width: 100%; text-align: center;">Tools</h4>
+  <h4>Tools</h4>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <!-- IDEs -->
-    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="VS Code" width="40" height="40"/>
-    </a>
-    <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" alt="Eclipse" width="40" height="40"/>
-    </a>
-   <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="40" height="40"/>
-    </a>
-    <!-- Databases -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-    </a>
-    <!-- Data Visualization -->
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="40" height="40"/>
-    </a>
-    <!-- Testing -->
-    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
       <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="40" height="40"/>
-    </a>
-    <!-- Design Software -->
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    </a>
   </div>
-</div>
 
 <!-- Row 4: Summary of Project Accomplishments -->
 <div style="text-align: center; margin-top: 20px;">
