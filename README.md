@@ -97,7 +97,7 @@
 
  <h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
     <p>
-      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update       the new version of the TP library mobile app (Version 3). Our tasks included resolving all detected issues and user feedback,             debugging existing functions, and implementing new functions.
+      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic          Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected          issues and user feedback,debugging existing functions, and implementing new functions.
     </p>
     
    <p>For my contribution, I was in charge of:</p>
@@ -108,9 +108,10 @@
       <li>Compiling the group's code together.</li>
     </ul>
     <p>Here's a short clip taken from my project presentation showcasing the Spin Me! function.</p> 
-   https://github.com/user-attachments/assets/68b1a0ae-ef72-4b7f-84d9-50a16e4473eb
   </div>
 </div>
+
+https://github.com/user-attachments/assets/82016021-e877-4184-b4b0-c4a22e89c0f1
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nur-syahirah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
