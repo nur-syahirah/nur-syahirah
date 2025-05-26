@@ -89,18 +89,18 @@
 
 <!-- Row 4: Summary of Project Accomplishments -->
 <div style="text-align: center; margin-top: 20px;">
-  <h4>Project Accomplishments</h4>
-  <p>
-    2012 - Internship with NIE CeL (Centre of E-Learning)<br>
-    Well Said App
-  </p>
-
-  <div style="margin-top: 40px;">
-    <h3>2013 - Collaborated with Temasek Polytechnic's Library for Major Project</h3>
+ <h4>Project Accomplishments</h4>
+ <h5>2012 - Internship with NIE CeL (Centre of E-Learning) - Well Said App </h5>
     <p>
-      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving all detected issues and user feedback, debugging existing functions, and implementing new functions.
+     
+   </p>
+
+ <h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
+    <p>
+      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update       the new version of the TP library mobile app (Version 3). Our tasks included resolving all detected issues and user feedback,             debugging existing functions, and implementing new functions.
     </p>
-    <p>For my contribution, I was in charge of:</p>
+    
+   <p>For my contribution, I was in charge of:</p>
     <ul style="text-align: left; display: inline-block;">
       <li>Updating the new floor plan and rectifying cosmetic adjustments.</li>
       <li>Investigating and fixing discrepancies in displaying information retrieved from their database (e.g., in the Announcement section).</li>
