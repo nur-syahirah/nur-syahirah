@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
 ---
 
 ## My Accomplishments
-#### Internship with NIE CeL (Centre of E-Learning) - Well Said App
+#### (2012-2013) Internship with NIE CeL (Centre of E-Learning) - Well Said App
   <p>
   During my internship with CeL (Centre of E-Learning), I collaborated with the team to recreate an Android version of their existing app, Well Said. As the project lead, I spearheaded the development process by designing and optimizing the user interface, coordinating with team members to integrate backend services, and overseeing quality assurance to ensure a seamless, user-friendly experience.
 </p>
@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
 </div>
 
 ***
-#### 2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App
+#### - (2012) Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App
  <p>
 For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks includes resolving detected issues from the user's feedback, debugging existing functions, and implementing new functions.
  </p>
