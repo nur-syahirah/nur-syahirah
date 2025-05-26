@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
 
 - **Current Focus:** 3-month bootcamp learning about full-stack development  
 - **Background:** Mobile programming & early childhood education  
-- **Core Strengths:** Problem-solving, creative design, and user experience optimization  
+- **Core Strengths:** Problem-solving, creative design, and user experience optimization
+- **Interest:** Anything and everything creative!
 
 ---
 
@@ -60,7 +61,7 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
 ---
 
 ## My Accomplishments
- <h5>2012 - Internship with NIE CeL (Centre of E-Learning) - Well Said App </h5>
+#### Internship with NIE CeL (Centre of E-Learning) - Well Said App
   <p>
   During my internship with CeL (Centre of E-Learning), I collaborated with the team to recreate an Android version of their existing app, Well Said. As the project lead, I spearheaded the development process by designing and optimizing the user interface, coordinating with team members to integrate backend services, and overseeing quality assurance to ensure a seamless, user-friendly experience.
 </p>
@@ -79,11 +80,11 @@ Welcome to my GitHub profile! I am an aspiring full-stack developer in training 
   <img src="https://github.com/user-attachments/assets/ed29494b-2519-4d08-ad6a-713523f9f06c" alt="Screenshot 16" height="250" />
 </div>
 
-
-<h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
-    <p>
-      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected issues and user feedback,debugging existing functions, and implementing new functions.
-    </p>
+***
+#### 2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App
+ <p>
+For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected issues and user feedback,debugging existing functions, and implementing new functions.
+ </p>
     
    <p>For my contribution, I was in charge of:</p>
     <ul style="text-align: left; display: inline-block;">
