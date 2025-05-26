@@ -107,11 +107,8 @@
       <li>Proposing and implementing the randomized function called "Spin Me!"</li>
       <li>Compiling the group's code together.</li>
     </ul>
-    <p>Here's a short clip taken from my project presentation showcasing the Spin Me! function.</p>
-    <video width="600" controls>
-      <source src="assets/videos/tpLibVid.mp4" type="video/mp4">
-      Whoops! Your browser does not support the video tag.
-    </video>
+    <p>Here's a short clip taken from my project presentation showcasing the Spin Me! function.</p> 
+   https://github.com/user-attachments/assets/68b1a0ae-ef72-4b7f-84d9-50a16e4473eb
   </div>
 </div>
 
