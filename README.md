@@ -6,17 +6,16 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=35&pause=1000&color=F7F2F1&background=1D9065&center=true&vCenter=true&width=1000&height=100&lines=I+am+Syahirah;Also+known+as+Ms+Irah+in+the+Early+Childhood+Community;And+Sahara+by+my+previous+course+mates!" alt="Typing SVG" /></a>
 </p>
 
-Welcome to my GitHub profile! I’m an aspiring full-stack developer in training with prior experience as a mobile programmer and an early childhood educator. I’m passionate about building innovative, responsive, and user-friendly applications while continuously expanding my tech skills.
+Welcome to my GitHub profile! I am an aspiring full-stack developer in training with prior experience as a mobile programmer and an early childhood educator. I am passionate about building innovative, responsive, and user-friendly applications while continuously expanding my tech skills.
 
 ---
 
 ## About Me
 
 
-- **Current Focus:** 3-month bootcamp mastering full-stack development  
+- **Current Focus:** 3-month bootcamp learning about full-stack development  
 - **Background:** Mobile programming & early childhood education  
 - **Core Strengths:** Problem-solving, creative design, and user experience optimization  
-- **Interests:** Responsive design, JWT & role-based authentication, SQL query optimization, and modern frameworks
 
 ---
 
@@ -62,13 +61,28 @@ Welcome to my GitHub profile! I’m an aspiring full-stack developer in training
 <div style="text-align: center; margin-top: 20px;">
  <h4>Project Accomplishments</h4>
  <h5>2012 - Internship with NIE CeL (Centre of E-Learning) - Well Said App </h5>
-    <p>
-     
-   </p>
+  <p>
+  During my internship with CeL (Centre of E-Learning), I collaborated with the team to recreate an Android version of their existing app, Well Said. As the project lead, I spearheaded the development process by designing and optimizing the user interface, coordinating with team members to integrate backend services, and overseeing quality assurance to ensure a seamless, user-friendly experience.
+</p>
+<p>
+<p>Here are some of the screenshots of the end product:</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/45d1ff11-26b5-41dd-8f47-a9800e5b378b" alt="Screenshot 2" width="150" />
+  <img src="https://github.com/user-attachments/assets/78f90980-9494-47f9-b667-93c6a7d15cbf" alt="Screenshot 1" width="150" />
+  <img src="https://github.com/user-attachments/assets/842c91db-42f8-4c61-a95c-2f0160c97d02" alt="Screenshot 3" width="150" />
+  <img src="https://github.com/user-attachments/assets/1b5fd004-2f1b-4cdc-898a-ce3865692d68" alt="Screenshot 5" width="150" />
+  <img src="https://github.com/user-attachments/assets/1f8fec94-4593-4198-b492-04530da7ccaf" alt="Screenshot 7 - alt" width="150" />
+  <img src="https://github.com/user-attachments/assets/7e3e73f2-4360-4983-bee4-ed4c0372f8ae" alt="Screenshot 7" height="250" />
+ <img src="https://github.com/user-attachments/assets/f68f4b7d-895a-4722-9532-ebaee99f08ea" alt="Screenshot 15" height="250 />
+  <img src="https://github.com/user-attachments/assets/ed29494b-2519-4d08-ad6a-713523f9f06c" alt="Screenshot 16" height="250 />
+</div>
+
+
 
  <h5>2013 - Collaborated with Temasek Polytechnic's Library for Major Project - TP Library App </h5>
     <p>
-      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic          Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected          issues and user feedback,debugging existing functions, and implementing new functions.
+      For the major project, my team and I collaborated with the Temasek Polytechnic IIT school and Temasek Polytechnic Library to update the new version of the TP library mobile app (Version 3). Our tasks included resolving detected issues and user feedback,debugging existing functions, and implementing new functions.
     </p>
     
    <p>For my contribution, I was in charge of:</p>
@@ -84,6 +98,9 @@ Welcome to my GitHub profile! I’m an aspiring full-stack developer in training
 
 https://github.com/user-attachments/assets/82016021-e877-4184-b4b0-c4a22e89c0f1
 
+---
+
+## My Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nur-syahirah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nur-syahirah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -95,48 +112,3 @@ https://github.com/user-attachments/assets/82016021-e877-4184-b4b0-c4a22e89c0f1
 </p>
 
 ###
-<!--
-**nur-syahirah/nur-syahirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-I'm an aspiring full-stack developer with a unique journey. I started out as a mobile programmer, then transitioned into early childhood education, and now I'm thrilled to return to the tech industry with a fresh perspective.
-
-## My Journey
-**From Mobile Programming to Early Childhood:**  
-My early career in mobile programming gave me hands-on coding experience, while my time as an early childhood educator taught me creativity, communication, and problem-solving in dynamic environments. These experiences have shaped my approach to full-stack development — blending technical savvy with innovative, human-centered solutions.
-
-**Why Full-Stack Development?**  
-I'm driven by a deep fascination with how things work and a desire to tackle challenges head-on. Whether it's debugging a tricky piece of code or designing an intuitive user interface, I love the process of resolving problems and building innovative solutions from the ground up.
-
-**Transferable Skills I Bring:**  
-- **Problem-Solving:** Developing creative solutions in both classrooms and code.
-- **Communication:** Explaining complex concepts clearly, whether to colleagues or end-users.
-- **Adaptability:** Adjusting quickly to new challenges and technologies.
-- **Patience & Persistence:** Guiding learners and debugging code both require a steady, persistent approach.
-- **Creativity:** Crafting engaging lesson plans informs my passion for designing intuitive interfaces.
-- **Collaboration:** Working with educators and diverse teams has honed my ability to thrive in collaborative environments.
-
-<div style="text-align: center; margin-top: 20px;">
-  <h4>Project Accomplishments</h4>
-  <p>
-    Developed a responsive e-commerce website as a capstone project that demonstrates mastery of full-stack development. Integrated a seamless front-end design using modern web frameworks with robust back-end systems and databases.
-  </p>
-</div>
-
-**My Current Journey:**  
-I'm currently immersed in a 3-month bootcamp to master full-stack development, learning technologies like HTML, JavaScript, and Java. I'm equally excited about both frontend and backend challenges. Right now, I'm working on my capstone project — a responsive ecommerce website — which allows me to synthesize my learning and test my skills in a real-world scenario.
-
-
-
--->
